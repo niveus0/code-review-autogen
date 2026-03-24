@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+autogen
+radon
+bandit
+tree-sitter
+python-multipart
